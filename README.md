@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm @Lucack</h1>
-<h3 align="center">Estudante de Ciência da Computação na Universidade Federal do ABC // Computer Science Student at Federal University of ABC - UFABC</h3>
+<h1 >Hi 👋, I'm @Lucack</h1>
+<h3 > # Estudante de Ciência da Computação na Universidade Federal do ABC </h3>
+<h3 > # Computer Science Student at Federal University of ABC - UFABC</h3>
+<\>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lusckak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lusckak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas-santana-contato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-santana-contato" height="30" width="40" /></a>
-<a href="https://instagram.com/lucas.s.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas.s.s" height="30" width="40" /></a>
-<a href="https://discord.gg/Lucak#6359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lucak#6359" height="30" width="40" /></a>
+<a href="https://instagram.com/luscas.s.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luscas.s.s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
