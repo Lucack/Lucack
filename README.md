@@ -2,6 +2,9 @@
 <h3 > # Estudante de Ciência da Computação na Universidade Federal do ABC </h3>
 <h3 > # Computer Science Student at Federal University of ABC - UFABC</h3>
 
+- 💻 I’m interested in learning about Computer Science
+- 👨‍🎓 I’m currently learning Pyhton and studing in Federal University of ABC - UFABC (São Paulo, Brazil)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@lusckak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@lusckak" height="30" width="40" /></a>
