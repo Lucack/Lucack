@@ -1,8 +1,6 @@
 <h1 >Hi 👋, I'm @Lucack</h1>
 <h3 > # Estudante de Ciência da Computação na Universidade Federal do ABC </h3>
 <h3 > # Computer Science Student at Federal University of ABC - UFABC</h3>
-<\>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
