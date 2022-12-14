@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucack
-- 👀 I’m interested in learning about Computer Science
-- 🌱 I’m currently learning Pyhton and studing in Federal University of ABC - UFABC (São Paulo, Brazil)
+- 💻 I’m interested in learning about Computer Science
+- 👨‍🎓 I’m currently learning Pyhton and studing in Federal University of ABC - UFABC (São Paulo, Brazil)
 
 
 <!---
