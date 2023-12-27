@@ -3,7 +3,7 @@
 <h3 > # Computer Science Student at Federal University of ABC - UFABC</h3>
 
 - 💻 I’m interested in learning about Computer Science
-- 👨‍🎓 I’m currently learning Pyhton and studing in Federal University of ABC - UFABC (São Paulo, Brazil)
+- 👨‍🎓 I’m currently learning Flutter and studing in Federal University of ABC - UFABC (São Paulo, Brazil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
